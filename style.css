@@ -174,8 +174,10 @@ h1 {
   }
 
   .message {
-    margin-bottom: 0;
-    padding: 25px 0;
+    padding: 0px 20px;
+    text-align: center;
+    line-height: 25px;
+    margin-bottom: 20px;
   }
 
   .label-score {
