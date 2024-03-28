@@ -126,6 +126,15 @@ h1 {
     margin-bottom: 15px;
   }
 
+  .right {
+    margin-top: 25px;
+  }
+
+  .left,
+  .right {
+    width: 42rem;
+  }
+
   h1 {
     font-size: 2.5rem;
   }
